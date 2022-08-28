@@ -3,7 +3,7 @@ import datetime
 from selenium.webdriver.support.events import AbstractEventListener
 
 
-class WebDriverLister(AbstractEventListener):
+class WebDriverListener(AbstractEventListener):
     log_filename = datetime.datetime.now().strftime("%Y%m%d")
     logging.basicConfig(
         # log file will be created in "tests" directory. Feel free to change the path or filename
