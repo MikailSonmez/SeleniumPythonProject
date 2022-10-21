@@ -1,0 +1,52 @@
+2022-08-30 20:05:22,929: INFO: ====== WebDriver manager ======
+2022-08-30 20:05:23,433: INFO: Get LATEST chromedriver version for google-chrome 104.0.5112
+2022-08-30 20:05:24,143: INFO: There is no [win32] chromedriver for browser 104.0.5112 in cache
+2022-08-30 20:05:24,143: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/104.0.5112.79/chromedriver_win32.zip
+2022-08-30 20:05:28,361: INFO: Driver has been saved in cache [C:\Users\mikai\.wdm\drivers\chromedriver\win32\104.0.5112]
+2022-08-30 20:05:31,512: INFO: Driver quitting
+2022-08-30 20:05:33,638: INFO: Driver quitted
+2022-08-30 20:06:03,227: INFO: ====== WebDriver manager ======
+2022-08-30 20:06:03,702: INFO: Get LATEST chromedriver version for google-chrome 104.0.5112
+2022-08-30 20:06:04,396: INFO: Driver [C:\Users\mikai\.wdm\drivers\chromedriver\win32\104.0.5112\chromedriver.exe] found in cache
+2022-08-30 20:06:05,779: INFO: Driver quitting
+2022-08-30 20:06:07,926: INFO: Driver quitted
+2022-08-30 20:06:42,004: INFO: ====== WebDriver manager ======
+2022-08-30 20:06:42,456: INFO: Get LATEST chromedriver version for google-chrome 104.0.5112
+2022-08-30 20:06:43,116: INFO: Driver [C:\Users\mikai\.wdm\drivers\chromedriver\win32\104.0.5112\chromedriver.exe] found in cache
+2022-08-30 20:06:44,513: INFO: Driver quitting
+2022-08-30 20:06:46,654: INFO: Driver quitted
+2022-08-30 20:07:12,380: INFO: ====== WebDriver manager ======
+2022-08-30 20:07:12,846: INFO: Get LATEST chromedriver version for google-chrome 104.0.5112
+2022-08-30 20:07:13,509: INFO: Driver [C:\Users\mikai\.wdm\drivers\chromedriver\win32\104.0.5112\chromedriver.exe] found in cache
+2022-08-30 20:07:14,931: INFO: Driver quitting
+2022-08-30 20:07:17,084: INFO: Driver quitted
+2022-08-30 20:10:36,414: INFO: ====== WebDriver manager ======
+2022-08-30 20:10:36,873: INFO: Get LATEST chromedriver version for google-chrome 104.0.5112
+2022-08-30 20:10:37,543: INFO: Driver [C:\Users\mikai\.wdm\drivers\chromedriver\win32\104.0.5112\chromedriver.exe] found in cache
+2022-08-30 20:10:38,940: INFO: Driver quitting
+2022-08-30 20:10:41,065: INFO: Driver quitted
+2022-08-30 20:11:17,942: INFO: ====== WebDriver manager ======
+2022-08-30 20:11:18,410: INFO: Get LATEST chromedriver version for google-chrome 104.0.5112
+2022-08-30 20:11:19,168: INFO: Driver [C:\Users\mikai\.wdm\drivers\chromedriver\win32\104.0.5112\chromedriver.exe] found in cache
+2022-08-30 20:11:20,554: INFO: Driver quitting
+2022-08-30 20:11:22,700: INFO: Driver quitted
+2022-08-30 20:12:49,664: INFO: ====== WebDriver manager ======
+2022-08-30 20:12:50,122: INFO: Get LATEST chromedriver version for google-chrome 104.0.5112
+2022-08-30 20:12:50,775: INFO: Driver [C:\Users\mikai\.wdm\drivers\chromedriver\win32\104.0.5112\chromedriver.exe] found in cache
+2022-08-30 20:12:52,197: INFO: Driver quitting
+2022-08-30 20:12:54,336: INFO: Driver quitted
+2022-08-30 20:14:08,954: INFO: ====== WebDriver manager ======
+2022-08-30 20:14:09,406: INFO: Get LATEST chromedriver version for google-chrome 104.0.5112
+2022-08-30 20:14:10,097: INFO: Driver [C:\Users\mikai\.wdm\drivers\chromedriver\win32\104.0.5112\chromedriver.exe] found in cache
+2022-08-30 20:14:11,496: INFO: Driver quitting
+2022-08-30 20:14:13,637: INFO: Driver quitted
+2022-08-30 20:23:40,108: INFO: ====== WebDriver manager ======
+2022-08-30 20:23:40,569: INFO: Get LATEST chromedriver version for google-chrome 104.0.5112
+2022-08-30 20:23:41,245: INFO: Driver [C:\Users\mikai\.wdm\drivers\chromedriver\win32\104.0.5112\chromedriver.exe] found in cache
+2022-08-30 20:23:42,679: INFO: Driver quitting
+2022-08-30 20:23:44,810: INFO: Driver quitted
+2022-08-30 20:24:01,364: INFO: ====== WebDriver manager ======
+2022-08-30 20:24:01,823: INFO: Get LATEST chromedriver version for google-chrome 104.0.5112
+2022-08-30 20:24:02,493: INFO: Driver [C:\Users\mikai\.wdm\drivers\chromedriver\win32\104.0.5112\chromedriver.exe] found in cache
+2022-08-30 20:24:03,898: INFO: Driver quitting
+2022-08-30 20:24:06,034: INFO: Driver quitted

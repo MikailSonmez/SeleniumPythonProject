@@ -6,10 +6,10 @@ from allure_commons.types import AttachmentType
 
 from utils.driver_factory import DriverFactory
 
-CONFIG_PATH = "config.json"
+CONFIG_PATH = "C://Users/mikai/PycharmProjects/SeleniumPythonProject/config.json"
 DEFAULT_WAIT_TIME = 10
 SUPPORTED_BROWSERS = ["chrome", "firefox", "edge"]
-DEFAULT_URL = "http://www.demoblaze.com/"
+DEFAULT_URL = "https://www.demoblaze.com/"
 
 
 @pytest.fixture(scope='session')
